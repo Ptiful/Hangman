@@ -10,8 +10,10 @@ You need to find the word before your lives are exhausted.
 * Just use it to have some fun
 
 ~~(Visuals)~~
+No graphic, just play and enjoy like old times.
 
 ~~(Contributors)~~
+No contributors I guess
 
 (Timeline)
 Less than a day, but not proud of my code
